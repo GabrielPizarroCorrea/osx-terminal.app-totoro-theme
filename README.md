@@ -1,11 +1,11 @@
 # Totoro a OS X Terminal.app theme
 
-Styled for OS X 10.7+ Terminal.app by Gabriel Pizarro Correa <gabriel.pizarro.correa@gmail.com>
+Styled for OS X 10.7+ Terminal.app
 
 
 ## Screenshot
 
-<img align="center" src="Totoro_screenshot.png">
+<img align="middle" src="Totoro_screenshot.png">
 
 ## Installation
 
