@@ -5,7 +5,7 @@ Styled for OS X 10.7+ Terminal.app by Gabriel Pizarro Correa <gabriel.pizarro.co
 
 ## Screenshot
 
-[![image](Totoro_screenshot.png)]
+<img align="center" src="Totoro_screenshot.png">
 
 ## Installation
 
