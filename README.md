@@ -10,4 +10,5 @@ Styled for OS X 10.7+ Terminal.app and iTerm2
 ## Installation
 
 OS X 10.7+ Import into Terminal.app preferences.
+
 OS X 10.7+ Import into iTerm preferences.
